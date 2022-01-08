@@ -1,6 +1,6 @@
 const tagsEl=document.getElementById('tags')
 const textarea=document.getElementById('textarea')
-console.log('ELLO')
+console.log('HELLO testing')
 textarea.focus()
 
 textarea.addEventListener('keyup' ,(e) => {
