@@ -1,6 +1,6 @@
 const tagsEl=document.getElementById('tags')
 const textarea=document.getElementById('textarea')
-console.log('HELLO testing')
+console.log('HELLO welcome to my Random Choice Picker')
 textarea.focus()
 
 textarea.addEventListener('keyup' ,(e) => {
