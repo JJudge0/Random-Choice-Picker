@@ -1,5 +1,5 @@
-# Random Choice picker
-### A personal project of which is a online choice picker type anything in the box seperate by (',') and it should randomly choose one of the options. This used HTML,CSS,JS
+# Random Choice Generator
+### A personal project of which is a online choice generator type anything in the box seperate by (',') and it should randomly choose one of the options. This used HTML,CSS,JS
 
 Randomizer Main tasks: 
 
